@@ -117,6 +117,6 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 
 ; Standard Advanced Site Install
 projects[sa][type] = "profile"
-projects[sa][download][type] = "get"
+projects[sa][download][type] = "git"
 projects[sa][download][destination] = "profiles"
 projects[sa][download][url] = "https://github.com/balatin/sasi.git"
